@@ -83,7 +83,7 @@ from pysqlite3 import dbapi2 as Database # 启用pysqlite3
 ```bash
 git clone https://github.com/kingmo888/rustdesk-api-server.git
 cd rustdesk-api-server
-docker compose --compatibility up --build -d
+docker-compose --compatibility up --build -d
 ```
 感谢热心网友 @ferocknew 提供。
 
